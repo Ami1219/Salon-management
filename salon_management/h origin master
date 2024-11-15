@@ -1,32 +1,8 @@
-[33mcommit a7c7b5aac560af02c3e4fa494b44b9ea65b4d356[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
-Merge: d497231 894431a
-Author: Amisha Atodria <aamichauhan@gmail.com>
-Date:   Thu Nov 14 01:23:37 2024 -0500
 
-    git commit -m "Initial commit with all files"
-    Merge branch 'master' of https://github.com/Ami1219/Salon-management
-    .
 
-[33mcommit d49723171c96e26dbab547e7f33e2c7698138fcc[m
-Author: Amisha Atodria <aamichauhan@gmail.com>
-Date:   Thu Nov 14 01:01:48 2024 -0500
-
-    Initial commit with all files
-
-[33mcommit 894431a28347c5e90d6e23ed9a146f5ddf36e8ea[m
-Author: Amisha Atodria <aamichauhan@gmail.com>
-Date:   Thu Nov 14 00:21:11 2024 -0500
-
-    Complete project files for initial push
-
-[33mcommit 5c39701e7c8e47ebb398f97e2b7896e4fc7129bc[m
+ 
 Author: Amisha Atodria <aamichauhan@gmail.com>
 Date:   Wed Nov 13 23:44:59 2024 -0500
 
     Initial commit of the salon_management
 
-[33mcommit 17d3f954f35e7411bb13bc91887d545853ac537d[m
-Author: Amisha Atodria <aamichauhan@gmail.com>
-Date:   Wed Nov 13 23:19:33 2024 -0500
-
-    Initial commit of the salon_management
